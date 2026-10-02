@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://aesearch.co/sitemap.xml
+Sitemap: https://aurum-search.com/sitemap.xml
